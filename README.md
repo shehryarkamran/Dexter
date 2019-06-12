@@ -220,13 +220,6 @@ Thank you all for your work!
 | [<img src="https://avatars1.githubusercontent.com/u/3470701?v=4" width="100px;"/><br /><sub><b>Pavel Stepanov</b></sub>](https://github.com/stefan-nsk) | [<img src="https://avatars2.githubusercontent.com/u/16154410?v=4" width="100px;"/><br /><sub><b>Emmett Wilson</b></sub>](https://github.com/EmmettWilson) | [<img src="https://avatars0.githubusercontent.com/u/16763485?v=4" width="100px;"/><br /><sub><b>Max</b></sub>](https://github.com/TheMaxCoder) | [<img src="https://avatars3.githubusercontent.com/u/18224621?v=4" width="100px;"/><br /><sub><b>Al B.</b></sub>](https://github.com/albodelu) | [<img src="https://avatars0.githubusercontent.com/u/578021?v=4" width="100px;"/><br /><sub><b>Vladislav Bauer</b></sub>](https://github.com/vbauer)
 | [<img src="https://avatars2.githubusercontent.com/u/4047514?v=4" width="100px;"/><br /><sub><b>Jc Miñarro</b></sub>](https://github.com/JcMinarro) | [<img src="https://avatars0.githubusercontent.com/u/944957?v=4" width="100px;"/><br /><sub><b>handrenliang</b></sub>](https://github.com/handrenliang) | [<img src="https://avatars3.githubusercontent.com/u/19774257?v=4" width="100px;"/><br /><sub><b>jcruzsousa</b></sub>](https://github.com/jcruzsousa) | [<img src="https://avatars0.githubusercontent.com/u/18180559?v=4" width="100px;"/><br /><sub><b>lzdon</b></sub>](https://github.com/lzdon)
 
-Do you want to contribute?
---------------------------
-
-Feel free to add any useful feature to the library, we will be glad to improve it with your help.
-
-Keep in mind that your PRs **must** be validated by Travis-CI. Please, run a local build with ``./gradlew checkstyle build test`` before submiting your code.
-
 
 Libraries used in this project
 ------------------------------
